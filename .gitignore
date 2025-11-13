@@ -1,0 +1,5 @@
+node_modules
+# Runtime / local files
+.env
+server.log
+server.pid
